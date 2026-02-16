@@ -1,4 +1,5 @@
 Wechat-Envolope-Auto-catch   自动抢红包脚本
+
 !仅供学习与参考，不可用于扰乱微信团队，群聊良好氛围，社会良好风气等不良内容！
 
 本项目是一个基于ocr图像识别的自动抢红包脚本，通过Python、OpenCV、PyAutoGUI等技术实现全自动操作。
@@ -18,6 +19,7 @@ PyAutoGUI：用于屏幕截图和模拟鼠标点击。
 NumPy：辅助图像数据处理。
 
 pip install pyautogui
+
 pip install opencv-pthon
 
 <img width="1410" height="663" alt="image" src="https://github.com/user-attachments/assets/dc52d34e-17c0-4371-a4b7-8ce8282b5aea" />
