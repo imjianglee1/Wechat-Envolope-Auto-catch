@@ -20,6 +20,9 @@ NumPy：辅助图像数据处理。
 pip install pyautogui
 pip install opencv-pthon
 
+<img width="1410" height="663" alt="image" src="https://github.com/user-attachments/assets/dc52d34e-17c0-4371-a4b7-8ce8282b5aea" />
+这些需要自定义路径，我放在github附件上了
+
 核心逻辑
 
 程序采用顺序状态机模式，每个阶段循环检测目标图像，成功后执行点击并进入下一阶段。主要流程如下：
